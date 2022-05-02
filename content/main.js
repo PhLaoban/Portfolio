@@ -5,13 +5,15 @@ export const attributes = {
       link: '/#portofolio',
       text: 'My work',
     },
-    heading: "I'm Paco Cu, and I create",
+    heading: "I'm Philipp ANTON, and I create",
     image: '/img/hero.jpeg',
     secondButton: { icon: 'whatsapp', link: '/#contact', text: 'Contact' },
     social: {
-      facebook: { link: 'https://facebook.com', show: true },
-      instagram: { link: 'https://instagram.com', show: true },
-      linkedin: { link: 'https://linkedin.com', show: true },
+      instagram: { link: 'https://www.instagram.com/ihpna/', show: true },
+      linkedin: {
+        link: 'https://www.linkedin.com/in/philipp-anton-5243b9233/',
+        show: true,
+      },
     },
     typed: [
       { text: 'fast websites.' },
