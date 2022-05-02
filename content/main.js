@@ -24,22 +24,22 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi, sit amet consequat leo. Integer non dolor non elit sodales consequat. Integer tempor sollicitudin massa, vel sollicitudin ante dictum eu.\n',
+    text: '',
   },
   features: [
     {
       icon: 'monitor-screenshot',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: '',
       title: 'UI/UX',
     },
     {
       icon: 'draw',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: '',
       title: 'Logo Design',
     },
     {
       icon: 'xml',
-      text: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla vel dapibus mi.\n',
+      text: '',
       title: 'Web Development',
     },
   ],
