@@ -24,22 +24,22 @@ export const attributes = {
   about: {
     heading: 'Who am I?',
     image: '/img/about.jpeg',
-    text: '',
+    text: 'Image',
   },
   features: [
     {
       icon: 'monitor-screenshot',
-      text: '',
+      text: 'UI',
       title: 'UI/UX',
     },
     {
       icon: 'draw',
-      text: '',
+      text: 'Logo',
       title: 'Logo Design',
     },
     {
       icon: 'xml',
-      text: '',
+      text: 'Web Development',
       title: 'Web Development',
     },
   ],
